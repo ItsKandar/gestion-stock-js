@@ -18,6 +18,9 @@ Le projet vise à développer une application web permettant la gestion du stock
 
 ## CONTRAINTES TECHNIQUES
 •	Utilisation d'AJAX pour communiquer avec le serveur et effectuer des requêtes GET, POST et DELETE.
+
 •	Utilisation du DOM pour manipuler dynamiquement les éléments HTML et afficher les données du stock.
+
 •	Validation des données du formulaire côté client pour assurer des entrées valides avant l'envoi des requêtes au serveur.
+
 •	Mise en œuvre d'un barème de prix pour vérifier la cohérence des prix des télévisions ajoutées.
